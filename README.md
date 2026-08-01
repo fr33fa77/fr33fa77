@@ -1,4 +1,4 @@
-1. Hi, I’m @fr33fa772
+1. Hi, I’m @fr33fa77
 2. I’m into where design meets techknowledge
 3. I’m currently learning how to code
 4. How to reach me. You can reach me at anthony@1200pixels.com
