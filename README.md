@@ -1,8 +1,7 @@
 1. Hi, my name is Anthony. My alias is @fr33fa77
 2. I love where design intersects with tech
 3. I love crafting unforgettable digital experiences
-4. How to reach me. You can reach me at anthony@1200pixels.com
-5. Pronouns: He/Him
+4. Pronouns: He/Him
 
 
 <!---
