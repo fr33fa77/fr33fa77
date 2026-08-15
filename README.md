@@ -1,7 +1,6 @@
 1. Hi, my name is Anthony. My alias is @fr33fa77
 2. I love where design intersects with tech
-
-3.personal web: https://anthonyredoblado.com
+3. 3.personal web: https://anthonyredoblado.com
 
 
 
