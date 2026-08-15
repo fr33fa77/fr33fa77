@@ -1,7 +1,7 @@
 1. Hi, my name is Anthony. My alias is @fr33fa77
 2. I love where design intersects with tech
-3. I love crafting unforgettable digital experiences
-4. Pronouns: He/Him
+
+
 
 
 <!---
